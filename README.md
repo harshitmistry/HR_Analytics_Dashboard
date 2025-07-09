@@ -116,8 +116,5 @@ To build a centralized, interactive HR analytics dashboard that empowers HR team
 
 ## 📎 7. Project Files & Links
 
-* 📸 **Dashboard Screenshot**
-  ![Dashboard Screenshot](attachment:581643d3-acb7-4b92-b600-1ccbbb68f707.png)
-
 * 📄 **Dashboard PDF Preview**
-  [Download HR Dashboard Preview PDF](sandbox:/mnt/data/581643d3-acb7-4b92-b600-1ccbbb68f707.png)
+  [Download HR Dashboard Preview PDF](https://github.com/harshitmistry/HR_Analytics_Dashboard/blob/main/HR%20Analytics%20Dashbord.pdf)
